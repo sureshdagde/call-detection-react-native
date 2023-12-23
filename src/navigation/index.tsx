@@ -5,6 +5,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer } from "@react-navigation/native";
 import { isReadyRef, navigationRef } from "react-navigation-helpers";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import "react-native-gesture-handler"
 /**
  * ? Local & Shared Imports
  */
